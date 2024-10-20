@@ -1,6 +1,6 @@
 ## Olá! Eu sou Nathan Ramos 👋
 
-- 🔭 Hoje trabalho como FullStack.
+- 🔭 Hoje trabalho como FrontEnd.
 - 🌱 Cursando FullStack na Digital College. 
 - 👯 Procuro colaborar em projetos de site usando HTML,CSS.
 - 🤔 Procuro ajuda com a evolução e soluções nos bugs.
