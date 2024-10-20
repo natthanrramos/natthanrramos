@@ -7,7 +7,7 @@
 - 🌱 Cursando FullStack na Digital College, e no sistema EAD com Devclub.
 - 📫 Como chegar até mim: natthannrramos@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Curriosidade: estou em transição de carreira na aréa.
+- ⚡ Curiosidades: Uma curiosidade interessante é que muitos dos princípios que você aprendeu em telecomunicações podem ser aplicados à programação. Por exemplo, em telecom, você lida com protocolos de comunicação e redes, enquanto na programação, muitas vezes você trabalha com APIs, que seguem protocolos de comunicação entre sistemas. Isso significa que seu conhecimento prévio pode ser uma grande vantagem ao desenvolver sistemas distribuídos ou entender a lógica por trás da comunicação de dados entre servidores e clientes.
 
 ![natthanrramos stats](https://github-readme-stats.vercel.app/api?username=natthanrramos&show_icons=true&theme=radical)
 
