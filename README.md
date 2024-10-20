@@ -6,8 +6,7 @@
  e iniciando o a aprendizado de <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/> e <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
 - 🌱 Cursando FullStack na Digital College, e no sistema EAD com Devclub.
 - 📫 Como chegar até mim: natthannrramos@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Curiosidades: Uma curiosidade interessante é que muitos dos princípios que você aprendeu em telecomunicações podem ser aplicados à programação. Por exemplo, em telecom, você lida com protocolos de comunicação e redes, enquanto na programação, muitas vezes você trabalha com APIs, que seguem protocolos de comunicação entre sistemas. Isso significa que seu conhecimento prévio pode ser uma grande vantagem ao desenvolver sistemas distribuídos ou entender a lógica por trás da comunicação de dados entre servidores e clientes.
+- ⚡ Curiosidades: Uma curiosidade interessante é que muitos dos princípios que eu aprendi em telecomunicações podem ser aplicados à programação. Por exemplo, em telecom, eu convivi com protocolos de comunicação e redes, enquanto na programação, muitas vezes vou trabalha com APIs, que seguem protocolos de comunicação entre sistemas. Isso significa que meu conhecimento prévio pode ser uma grande vantagem ao desenvolver sistemas distribuídos ou entender a lógica por trás da comunicação de dados entre servidores e clientes.
 
 ![natthanrramos stats](https://github-readme-stats.vercel.app/api?username=natthanrramos&show_icons=true&theme=radical)
 
